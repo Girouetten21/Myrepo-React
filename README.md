@@ -26,3 +26,12 @@ Deployment: https://crud-react-vercel.vercel.app
 * JSON Server stores and retrieves user data from a JSON file.
 
 Repository: [CRUD-React-Axios-Json](https://github.com/Girouetten21/CRUD-React-Axios-Json/)  
+
+## React-Cursor-Game
+* Powered by React, JavaScript, and CSS**
+* React Hooks Practice**: The game serves as a practical application of React Hooks (`useEffect`, `useState`, and `useRef`).
+* Interactive Gameplay**: Players can collide with circles that randomly appear in a designated div, earning points for each successful hit.
+* Dynamic Difficulty**: The game includes a timer that increases the speed at which circles are generated, providing a progressively challenging experience.*
+
+Repository: [React-Cursor-Game](https://github.com/Girouetten21/React-Cursor-Game/)  
+Deployment: https://react-cursor-game.vercel.app  
