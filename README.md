@@ -35,9 +35,3 @@ Repository: [CRUD-React-Axios-Json](https://github.com/Girouetten21/CRUD-React-A
 
 Repository: [React-Cursor-Game](https://github.com/Girouetten21/React-Cursor-Game/)  
 Deployment: https://react-cursor-game.vercel.app  
-
-## Bookmark Folder Manager - React (In progress)
-* Powered by React, JavaScript, Ant Design and CSS
-* Creating Folders, Bookmark Cards and Categories (currently from DataMenu.jsx)
-
-Repository: [React-Antd-Folder-Menu](https://github.com/Girouetten21/React-Antd-Folder-Menu)
